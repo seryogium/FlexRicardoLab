@@ -45,7 +45,7 @@ html, body {
 
 .sideText {
 	width: 62%;
-	height: 100%;
+	height: auto;
 	/* background: grey; */
 	margin-top: 10px;
 	margin-left: 0;
